@@ -1,0 +1,1 @@
+echo "Customer has requirements about the project related to git"
