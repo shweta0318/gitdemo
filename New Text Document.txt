@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+## Code by Scratchy (Twitter @S_cratchy)
+<html>
+<body>
+
+<a href="https://www.Google.com" target="_blank">Gooooooooogle!</a> 
+
+</body>
+</html>
